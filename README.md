@@ -11,7 +11,8 @@ The project uses postgresql. It must be installed and set up.
 - Make sure the role is given db crate access
 - Run ./manage migrate after above and settings.py is set up
 
-
+To start database
+./manage runserver
 
 
 
